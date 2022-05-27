@@ -2,8 +2,6 @@ config:
   info: "mainr branch,springcloud-config/config-dev.yml version=4"
 #applicaiton.yml是用户级的资源配置项,bootstrap.yml是系统级的，优先级更加高
 
-server:
-  port: 3355
 
 spring:
   application:
